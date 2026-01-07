@@ -18,11 +18,8 @@ Recent **Master of AI** graduate specializing in **Natural Language Processing**
 ### What I Work With
 
 **AI/ML:** PyTorch, TensorFlow, Transformers, LLMs, Computer Vision, NLP
-
 **APIs & LLMs:** OpenAI, Anthropic, Groq, Google Gemini, LangChain
-
 **Backend:** Python, FastAPI, REST APIs
-
 **Tools:** Git, Docker, VS Code, Jupyter
 
 ---
