@@ -1,4 +1,4 @@
-# Hi, I'm SAMithila 👋
+# Hi, I'm Samia 👋
 
 I build AI applications that solve real problems — from medical image segmentation to intelligent chatbots.
 
