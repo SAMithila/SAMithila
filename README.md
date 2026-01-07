@@ -1,4 +1,4 @@
-# Hi, I'm Mithila 👋
+# Hi, I'm SAMithila 👋
 
 I build AI applications that solve real problems — from medical image segmentation to intelligent chatbots.
 
