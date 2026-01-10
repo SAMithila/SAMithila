@@ -50,4 +50,4 @@ Recent **Master of AI** graduate specializing in **Natural Language Processing**
 
 ---
 
-*Open to AI/ML Engineer opportunities • Based in [Your Location]*
+*Open to AI/ML Engineer opportunities 
