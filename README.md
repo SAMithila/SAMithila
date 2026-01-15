@@ -28,18 +28,9 @@ Recent **Master of AI** graduate specializing in **Natural Language Processing**
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Domain-Generalized Lesion Segmentation](https://github.com/YOUR_USERNAME/domain-generalized-lesion-segmentation) | Medical image segmentation with MedSAM | PyTorch, MedSAM |
-| [AI Engineer Learning](https://github.com/YOUR_USERNAME/ai-engineer-learning) | Chatbots, prompt engineering, API integration | Python, Groq, FastAPI |
-| Smart Detection Desk | Real-time object detection system | OpenCV, Deep Learning |
-
----
-
-### Currently Learning
-
-- 📚 RAG (Retrieval Augmented Generation) & Vector Databases
-- 🛠️ Production ML deployment with Docker
-- 🎯 System design for ML applications
-- 💻 LeetCode for coding interviews
+| [Domain-Generalized Lesion Segmentation](https://github.com/SAMithila/domain-generalized-lesion-segmentation) | Medical image segmentation with MedSAM | PyTorch, MedSAM |
+| [AI Engineer Learning](https://github.com/SAMithila/ai-engineer-learning) | Chatbots, prompt engineering, API integration | Python, Groq, FastAPI |
+| ObjectSpace (https://github.com/SAMithila/objectSpace) | Real-time object detection system | OpenCV, Deep Learning |
 
 ---
 
