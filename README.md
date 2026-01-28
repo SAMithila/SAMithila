@@ -24,15 +24,6 @@ Recent **Master of AI** graduate specializing in **Natural Language Processing**
 
 ---
 
-### Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Domain-Generalized Lesion Segmentation](https://github.com/SAMithila/domain-generalized-lesion-segmentation) | Medical image segmentation with MedSAM | PyTorch, MedSAM |
-| [AI Engineer Learning](https://github.com/SAMithila/ai-engineer-learning) | Chatbots, prompt engineering, API integration | Python, Groq, FastAPI |
-| ObjectSpace | Real-time object detection system | OpenCV, Deep Learning |
-
----
 
 ### Let's Connect
 
