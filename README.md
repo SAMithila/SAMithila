@@ -88,19 +88,10 @@ Computer vision system for real-time object detection and tracking.
 
 ---
 
-## GitHub Stats
-
-![Samia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAMithila&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAMithila&layout=compact)
-
----
-
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samiaafrinmithila)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samiaafrinmithila@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAMithila)
 
 ---
 
