@@ -4,7 +4,7 @@
 
 🎓 **Master of AI** graduate (Australia Awards Scholar) specializing in Natural Language Processing  
 🔬 Currently building AI systems combining LLMs, search, and vision models  
-📍 Interested in AI/ML Engineer roles in **Singapore, UAE, and Remote**
+📍 Interested in AI/ML Engineer roles in **Singapore, UK, and Remote**
 
 ---
 
