@@ -4,22 +4,31 @@
 
 🎓 **Master of AI** graduate (Australia Awards Scholar) specializing in Natural Language Processing  
 🔬 Currently building AI systems combining LLMs, search, and vision models  
-📍 Interested in AI/ML Engineer roles in **Singapore, UK, and Remote**
+📍 🎯 Targeting Human-Centered AI and ML Engineering roles in **Singapore, UK, and Remote**
 
 ---
 
 ## Featured Projects
 
-### NL DB Agent
-Natural language → SQL database agent that allows users to query databases using plain English.
+### nl-db-agent — Agentic RAG for Natural Language Database Queries
 
-**Highlights:**
-- Built with LangGraph and guardrails
-- Schema-aware SQL generation
-- Deterministic execution pipeline
-- 96% benchmark accuracy
+Routes plain English questions to SQL, industry documents, or both — automatically.
 
-🔗 [Repository](https://github.com/SAMithila/llm-sql-agent)
+**How it works:**
+- 🗄️ **SQL route** — "What is our total revenue by genre?" → queries Chinook DB → Rock $826.65
+- 📄 **Document route** — "What is global music revenue growth?" → searches Pinecone → +4.8% (IFPI 2025)
+- 🔀 **Both route** — "How does our Rock revenue compare to global trends?" → combines both sources
+
+**Technical highlights:**
+- LangGraph state machine (7 nodes, 3 routing paths)
+- Pinecone vector DB — 2,462 vectors from 4 real industry PDFs
+- LLM-as-judge evaluation framework (route-specific scoring)
+- HCD features: explainability panel + human feedback loop (mirrors RLHF)
+- 86.1% benchmark accuracy (36 queries, 6 tiers) · 0% SQL hallucination
+
+**Stack:** LangGraph · GPT-4o-mini · Pinecone · FastAPI · Next.js · Google Cloud Run
+
+🔗 [Repository](https://github.com/SAMithila/nl-db-agent) · [Live Demo](https://llm-sql-agent-ui.vercel.app)
 
 ---
 
@@ -68,8 +77,8 @@ Computer vision system for real-time object detection and tracking.
 
 | Area | Skills |
 |------|--------|
-| **LLM Applications** | RAG, LLM Agents, Tool Use, Function Calling |
-| **Search & Retrieval** | Hybrid Search (Vector + BM25), Query Expansion, ChromaDB |
+| LLM Applications | Agentic RAG, LangGraph, LLM-as-judge Evaluation, Human-Centered AI, Tool Use, Function Calling |
+| Search & Retrieval | Hybrid Search (Vector + BM25), Pinecone, Query Expansion, ChromaDB |
 | **Prompt Engineering** | Few-shot, Chain-of-Thought, System Prompts |
 | **Computer Vision** | Object Detection, Tracking, Medical Imaging, Foundation Models (SAM) |
 | **Infrastructure** | API Orchestration, Multi-provider Failover, Session Management |
