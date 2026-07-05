@@ -10,7 +10,7 @@
 
 ## Featured Projects
 
-### LLM SQL Agent
+### NL DB Agent
 Natural language → SQL database agent that allows users to query databases using plain English.
 
 **Highlights:**
