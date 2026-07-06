@@ -4,7 +4,7 @@
 
 🎓 **Master of AI** graduate (Australia Awards Scholar) specializing in Natural Language Processing  
 🔬 Currently building AI systems combining LLMs, search, and vision models  
-📍 🎯 Targeting Human-Centered AI and ML Engineering roles in **Singapore, UK, and Remote**
+📍 Targeting Human-Centered AI and ML Engineering roles in **Singapore, UK, and Remote**
 
 ---
 
